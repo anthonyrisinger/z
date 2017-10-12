@@ -1,0 +1,11 @@
+# Disposable things
+.config/
+.cache/
+
+# Setuptools
+*.dist-info/
+*.egg-info/
+
+# Bytecode
+__pycache__/
+*.py[cod]
